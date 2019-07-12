@@ -1,5 +1,5 @@
 <?php
 
 Route::get('/test', function() {
-	return '123';
+	return '1243';
 });
